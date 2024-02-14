@@ -1,4 +1,4 @@
-import joblib
+from sklearn.externals import joblib
 import streamlit as st
 # Load the model using joblib
 model = joblib.load("Bankruptcy_detection.pkl")
