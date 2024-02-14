@@ -1,6 +1,5 @@
-import streamlit as st
 import joblib
-
+import streamlit as st
 # Load the model using joblib
 model = joblib.load("Bankruptcy_detection.pkl")
 
