@@ -1,7 +1,7 @@
 import joblib
 import streamlit as st
 # Load the model using joblib
-model = joblib.load("Bankruptcy_detection.pkl")
+model = joblib.load("bankcruptcy/Bankruptcy_detection.pkl")
 
 
 def main():
