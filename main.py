@@ -12,8 +12,7 @@ def main():
             f"""
              <style>
              .stApp {{
-                 background-image: url('https://wallpaperbat.com/img/439560-e-clipart-banking-e
-                 -banking-transparent-free-for-download.png');
+                 background-image: url('https://chistadata.com/wp-content/uploads/2023/08/shutterstock_2123447981-1024x442.jpg');
                  background-attachment: fixed;
                  background-size: cover
              }}
